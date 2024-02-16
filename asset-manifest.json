@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expanses-Chart/static/css/main.08d30cb1.css",
+    "main.js": "/Expanses-Chart/static/js/main.aec2ff39.js",
+    "index.html": "/Expanses-Chart/index.html",
+    "main.08d30cb1.css.map": "/Expanses-Chart/static/css/main.08d30cb1.css.map",
+    "main.aec2ff39.js.map": "/Expanses-Chart/static/js/main.aec2ff39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d30cb1.css",
+    "static/js/main.aec2ff39.js"
+  ]
+}
