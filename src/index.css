@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 0;
+}
